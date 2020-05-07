@@ -18,7 +18,7 @@
 * ```cd zphisher```
 * ```chmod +x zphisher.sh```
 * ```bash zphisher.sh```
-
+________________________
 ### Or ; Use Single Command
 ```
 apt update && apt install git php curl openssh -y && git clone https://github.com/htr-tech/zphisher && cd zphisher && chmod +x zphisher.sh && bash zphisher.sh
